@@ -1,0 +1,33 @@
+1. What is React?
+
+=> React is a JavaScript library created by Facebook.
+=> React is a tool for building User Intefaces.
+
+2. How does React Work?
+
+=> React creates a VIRTUAL DOM in memory.
+=> Instead of manipulating the browser's DOM directly, React creates a virtual DOM in memory, where it does all the necessary manipulating, before making   the changes in the browser DOM.
+=> React only changes what needs to be changed!
+=> React finds out what changes have been made, and changes only what needs to be changed.
+
+3. Features
+
+    Solid base architecture
+    Extensible architecture
+    Component based library
+    JSX based design architecture
+    Declarative UI library
+
+4. Benefits
+
+    Easy to learn
+    Easy to adept in modern as well as legacy application
+    Faster way to code a functionality
+    Availability of large number of ready-made component
+    Large and active community
+
+5. Applications
+
+    Facebook, popular social media application
+    Instagram, popular photo sharing application
+    Netflix, popular media streaming application
